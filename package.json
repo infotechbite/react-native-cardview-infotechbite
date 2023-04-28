@@ -1,0 +1,25 @@
+{
+  "name": "react-native-cardview-infotechbite",
+  "version": "1.0.0",
+  "description": "This is cardview that work on both android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-card-view",
+    "cardview",
+    "android",
+    "cardview",
+    "iOS",
+    "card",
+    "view",
+    "card"
+  ],
+  "author": "infotechbite",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.4"
+  }
+}
